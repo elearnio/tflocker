@@ -1,4 +1,4 @@
-module code.nimel.de/tflocker
+module github.com/cmertz/tflocker
 
 go 1.14
 
