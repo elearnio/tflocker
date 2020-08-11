@@ -1,4 +1,4 @@
-module github.com/cmertz/tflocker
+module github.com/elearnio/tflocker
 
 go 1.14
 
